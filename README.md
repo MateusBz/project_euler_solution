@@ -1,1 +1,1 @@
-# project_euler_solution
+My task solutions from the euler project
